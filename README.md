@@ -10,4 +10,5 @@ Ruofei Du, Kent Wills, Max Potasznik, Jon Froehlich
 Publication
 ==============
 http://duruofei.com/Research/atmosphere
+
 In Proceedings of ACM Conference on Human Factors in Computing Systems CHI '15, EA 2015. 
